@@ -2,9 +2,9 @@
 
 hyspace's personal homepage, built with pure HTML and no CSS or client-side JavaScript.
 
-Static files are stored in `public/` and deployed with Cloudflare Workers Static Assets.
+Static files are stored in `public/` and deployed with Cloudflare Workers Static Assets. The page follows the browser's light or dark color scheme without CSS or JavaScript.
 
-Domain bindings are defined in `wrangler.jsonc`; the `www` redirect is managed by Cloudflare Redirect Rules.
+Domain bindings are defined in `wrangler.jsonc`; redirects are managed by Cloudflare Redirect Rules.
 
 ## Local
 
