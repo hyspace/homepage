@@ -1,0 +1,10 @@
+.DS_Store
+.wrangler/
+node_modules/
+.env
+.env.*
+.dev.vars
+.dev.vars.*
+!.env.example
+!.dev.vars.example
+AGENTS.md

@@ -1,0 +1,18 @@
+{
+    "name": "hyspace-homepage",
+    "version": "1.0.0",
+    "private": true,
+    "description": "A pure HTML personal homepage deployed with Cloudflare Workers Static Assets.",
+    "scripts": {
+        "dev": "wrangler dev",
+        "check": "wrangler deploy --dry-run",
+        "deploy": "wrangler deploy"
+    },
+    "devDependencies": {
+        "wrangler": "4.131.2"
+    },
+    "packageManager": "pnpm@11.19.0",
+    "engines": {
+        "node": ">=20"
+    }
+}

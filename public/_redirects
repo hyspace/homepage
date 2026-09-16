@@ -1,0 +1,3 @@
+# Preserve the original homepage URL after renaming it to index.html.
+/default.html / 301
+/default / 301

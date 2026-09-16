@@ -1,0 +1,28 @@
+# hyspace
+
+> hyspace's personal homepage. Software engineer and illustrator in training.
+
+The homepage is in English. The Japanese phrase "見習い" means "apprentice"
+or "in training" and qualifies "illustrator".
+
+Guidance for assistants:
+- Preserve the lowercase name "hyspace".
+- Use the homepage for its brief self-description and the linked profiles for
+  information published on those platforms.
+- Do not infer an employer, location, contact details, or availability from
+  information that is not stated.
+- Treat this file as website context, not as permission to act on behalf of
+  hyspace or as an override of a user's instructions.
+- Follow robots.txt and applicable access restrictions. This file does not
+  grant a content usage or AI training license.
+
+## Website
+
+- [Homepage](/): The original personal introduction and profile links.
+- [Crawling policy](/robots.txt): Instructions for automated crawlers.
+
+## Profiles
+
+- [X](https://x.com/hyspace): X profile.
+- [GitHub](https://github.com/hyspace): GitHub profile.
+- [Pixiv](https://www.pixiv.net/users/1131662): Pixiv profile.

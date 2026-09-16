@@ -1,0 +1,4 @@
+# Crawling is allowed for this public homepage.
+# This file does not grant a content usage or AI training license.
+User-agent: *
+Disallow:
